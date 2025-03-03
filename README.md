@@ -15,7 +15,7 @@ for modern UI/UX design
 ## Lab Experiments
 
 1. Use create-react-app to set up a new project. Edit the App.js file to include a stateful component with useState.
-Add an input field and a <h1> element that displays text based on the input. Dynamically update the <h1> content
+Add an input field and a element that displays text based on the input. Dynamically update the content
 as the user types.
 
 2. Develop a React application that demonstrates the use of props to pass data from a parent component to child
@@ -79,7 +79,7 @@ Contact) with appropriate content to differentiate them. Configure routes using 
 the corresponding page component based on the selected link. Use BrowserRouter and Route components
 for routing. Highlight the active link in the navigation menu to indicate the current page
 
-10.Design a React application featuring a class-based component that demonstrates the use of lifecycle
+10. Design a React application featuring a class-based component that demonstrates the use of lifecycle
 methods to interact with an external API. The component should fetch and update data dynamically based
 on user interactions or state changes. Use the componentDidMount lifecycle method to fetch data from an
 API when the component is initially rendered. Display the fetched data in a structured format, such as a table
