@@ -1,4 +1,4 @@
-# CReact Lab
+# React Lab
 - Course Code : BCSL657B
 - Credits : 1
 
