@@ -2,15 +2,12 @@
 - Course Code : BCSL657B
 - Credits : 1
 
-## Course objectives:
-* Enable students to develop React applications utilizing functional and class-based components, effectively
-managing state with hooks and lifecycle methods .
-* Introduce, how to pass data dynamically between parent and child components using props, ensuring modular
-and reusable component design.
-* Create dynamic and responsive applications, integrating forms, validation, task management systems, and styled
-components.
-* Use React Router for navigation, external API integration for dynamic data handling, and CSS styling techniques
-for modern UI/UX design
+## Course Outcomes:
+* Illustrate React basics and state components.
+* Develop React applications that utilize component composition, passing data through props.
+* Use dynamic state updates, event handling, and custom logic to increment, decrement, and reset state values.
+* Implement forms in React that collect and validate user input.
+* Demonstrate interaction with external APIs, dynamic content generation and manage state in real-time applications.
 
 ## Lab Experiments
 
